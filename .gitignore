@@ -121,7 +121,7 @@ celerybeat.pid
 
 # Environments
 .env
-.venv_projeto88
+.venv
 env/
 venv/
 ENV/
